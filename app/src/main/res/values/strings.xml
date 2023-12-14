@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PanicAttackApp</string>
+    <string name="PanicAttack_Button">У меня паника!</string>
+    <string name="breath_Button">Практика дыхания</string>
+    <string name="theory_Button">Что такое ПА?</string>
+    <string name="advices_Button">Советы при ПА</string>
+    <string name="sounds_Button">Успокаивающие звуки</string>
+</resources>
