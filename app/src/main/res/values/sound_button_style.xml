@@ -10,7 +10,7 @@
         <item name="android:layout_marginBottom">40dp</item>
         <item name="android:background">@drawable/main_buttons</item>
         <item name="android:drawableTop">@drawable/sound_button</item>
-        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:fontFamily">@font/merriweather_sans_extrabold</item>
         <item name="android:freezesText">false</item>
         <item name="android:gravity">bottom|center</item>
         <item name="android:padding">13dp</item>
