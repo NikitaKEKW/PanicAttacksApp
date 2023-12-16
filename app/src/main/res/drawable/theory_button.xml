@@ -3,5 +3,5 @@
     <item
         android:width="77dp"
         android:height="76dp"
-        android:drawable="@drawable/wtf"/>
+        android:drawable="@drawable/theory"/>
 </layer-list>
